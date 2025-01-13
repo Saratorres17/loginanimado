@@ -1,0 +1,23 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-center {
+  background-position: center;
+}
+
+
+.backdrop-blur-md {
+  backdrop-filter: blur(5px);
+}
+
+
+button:hover {
+  transform: scale(1.05);
+}

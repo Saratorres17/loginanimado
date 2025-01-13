@@ -1,73 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployme
-
-![Captura de pantalla 2025-01-13 131808](https://github.com/user-attachments/assets/a2bd0d97-7896-482c-81be-9e959fc6b8a7)
-nt)
+#FormularioReact
 ¡Presentamos nuestra plantilla de formulario de contacto diseñada con React! Si estás buscando una manera sencilla, elegante y eficiente de agregar un formulario de contacto a tu página web, nuestra plantilla es la solución perfecta para ti.
+![Captura de pantalla 2025-01-13 131808](https://github.com/user-attachments/assets/71f4bd3f-4a00-4982-b4ab-57b1761ab0dd)
 
 Características principales:
 Fácil integración: Esta plantilla está construida con React, lo que significa que puedes integrarla rápidamente en tu sitio web y empezar a usarla en minutos, sin complicaciones. Ideal para desarrolladores que buscan optimización y rapidez.
@@ -89,6 +22,4 @@ Ahorra tiempo: No necesitas escribir código desde cero. Con nuestra plantilla d
 Mejora la experiencia del usuario: El formulario interactivo y responsivo asegura que los usuarios tengan una experiencia fluida, sin importar el dispositivo que utilicen.
 Diseño adaptativo y flexible: Personaliza el formulario a tu gusto, manteniendo la simplicidad y la eficiencia que necesitas para tu sitio web.
 Optimización de la carga: React maneja el estado de los campos de manera eficiente, lo que mejora el rendimiento de tu página y la velocidad de carga.
-
-
 
